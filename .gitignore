@@ -1,0 +1,10 @@
+venv
+.gradle
+.idea
+create_env.sh
+Dockerfile
+influxdb_feeder.iml
+main.py
+setup.py
+old_write_points.py
+cah.py
